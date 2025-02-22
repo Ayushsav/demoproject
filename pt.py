@@ -6,3 +6,4 @@ if __name__ == "__main__":
     print(greet(name))
     age = input("Enter your age: ")
     print(f"You are {age} years old.")
+    

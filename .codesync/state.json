@@ -32,6 +32,46 @@
       "timestamp": "2025-02-22T04:01:43.130Z",
       "prompt": "write another code.",
       "parent_inline_chat_id": null
+    },
+    {
+      "inline_chat_id": "b48d5343-5e01-4b0b-b3b8-7216d9085ee6",
+      "file_diff": [
+        {
+          "file_path": "test1.py",
+          "diffs": [
+            {
+              "count": 15,
+              "added": true,
+              "removed": false,
+              "value": "def merge_sort(arr):\n    if len(arr) > 1:\n        mid = len(arr) // 2\n        left_half = arr[:mid]\n        right_half = arr[mid:]\n\n        merge_sort(left_half)\n        merge_sort(right_half)\n\n        i = j = k = 0\n\n        while i < len(left_half) and j < len(right_half):\n            if left_half[i] < right_half[j]:\n                arr[k] = left_half[i]\n                i += 1"
+            }
+          ]
+        }
+      ],
+      "selection": null,
+      "timestamp": "2025-02-22T05:01:45.044Z",
+      "prompt": "a python program for merge sort.",
+      "parent_inline_chat_id": null
+    },
+    {
+      "inline_chat_id": "fa057822-81e1-40fb-8e08-f288d9e35472",
+      "file_diff": [
+        {
+          "file_path": "test1.py",
+          "diffs": [
+            {
+              "count": 42,
+              "added": true,
+              "removed": false,
+              "value": "def merge_sort(arr):\n    if len(arr) > 1:\n        mid = len(arr) // 2\n        left_half = arr[:mid]\n        right_half = arr[mid:]\n\n        merge_sort(left_half)\n        merge_sort(right_half)\n\n        i = j = k = 0\n\n        while i < len(left_half) and j < len(right_half):\n            if left_half[i] < right_half[j]:\n                arr[k] = left_half[i]\n                i += 1\n            else:\n                arr[k] = right_half[j]\n                j += 1\n            k += 1\n\n        while i < len(left_half):\n            arr[k] = left_half[i]\n            i += 1\n            k += 1\n\n        while j < len(right_half):\n            arr[k] = right_half[j]\n            j += 1\n            k += 1\n\ndef print_list(arr):\n    for i in range(len(arr)):\n        print(arr[i], end=\" \")\n    print()\n\nif __name__ == \"__main__\":\n    arr = [12, 11, 13, 5, 6, 7]\n    print(\"Given array is\")\n    print_list(arr)\n    merge_sort(arr)\n    print(\"Sorted array is\")\n    print_list(arr)"
+            }
+          ]
+        }
+      ],
+      "selection": null,
+      "timestamp": "2025-02-22T05:01:45.047Z",
+      "prompt": "",
+      "parent_inline_chat_id": null
     }
   ],
   "schemaVersion": "1.0",
