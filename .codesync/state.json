@@ -1,10 +1,48 @@
 {
   "panelChats": [],
-  "inlineChats": [],
+  "inlineChats": [
+    {
+      "inline_chat_id": "bba761f2-e169-4b77-8da7-6b1b43e3b80b",
+      "file_diff": [
+        {
+          "file_path": "pt.py",
+          "diffs": [
+            {
+              "count": 5,
+              "added": false,
+              "removed": false,
+              "value": "def greet(name):\n    return f\"Hello, {name}!\"\n\nif __name__ == \"__main__\":\n    name = input(\"Enter your name: \")\n"
+            },
+            {
+              "count": 1,
+              "added": false,
+              "removed": true,
+              "value": "    print(greet(name))"
+            },
+            {
+              "count": 3,
+              "added": true,
+              "removed": false,
+              "value": "    print(greet(name))\n    age = input(\"Enter your age: \")\n    print(f\"You are {age} years old.\")"
+            }
+          ]
+        }
+      ],
+      "selection": null,
+      "timestamp": "2025-02-22T04:01:43.130Z",
+      "prompt": "write another code.",
+      "parent_inline_chat_id": null
+    }
+  ],
   "schemaVersion": "1.0",
   "deletedChats": {
     "deletedMessageIDs": [],
     "deletedPanelChatIDs": []
   },
-  "kv_store": {}
+  "kv_store": {
+    "unique_matched_lines_count": 0,
+    "total_repo_line_count": 0,
+    "best_prompt_response": null,
+    "file_statistics": []
+  }
 }

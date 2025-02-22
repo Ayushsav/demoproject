@@ -1,0 +1,4 @@
+
+.codesync/** -diff linguist-generated
+
+.codesync/state.json merge=custom-stashed-state
