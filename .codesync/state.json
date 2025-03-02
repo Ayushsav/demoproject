@@ -1,5 +1,23 @@
 {
-  "panelChats": [],
+  "panelChats": [
+    {
+      "ai_editor": "copilot",
+      "customTitle": "Adding functions to Python script",
+      "id": "bc47d144-8dc1-421b-870e-d80086f48455",
+      "parent_id": null,
+      "created_on": "2025-03-02T01:53:34.722Z",
+      "messages": [
+        {
+          "id": "d05ae002-2602-4032-aefc-03ec09425ff4",
+          "messageText": "add more functions in this file",
+          "responseText": "Sure, I'll add a couple of additional functions to the file.\n\n```python\n\ndef code_sync_demo():\n    print(\"This is a demo of code synchronization.\")\n    print(\"Code synchronization ensures that changes in one place are reflected in another.\")\n    print(\"This is useful for maintaining consistency across different parts of a project.\")\n    print(\"End of demo.\")\n\ndef greet_user(name):\n    print(f\"Hello, {name}! Welcome to the demo project.\")\n\ndef add_numbers(a, b):\n    return a + b\n\nif __name__ == \"__main__\":\n    code_sync_demo()\n    greet_user(\"Ayush\")\n    result = add_numbers(5, 7)\n    print(f\"The result of adding 5 and 7 is {result}.\")\n```",
+          "model": "Unknown",
+          "timestamp": "2025-03-02T01:53:34.722Z",
+          "context": []
+        }
+      ]
+    }
+  ],
   "inlineChats": [
     {
       "inline_chat_id": "bba761f2-e169-4b77-8da7-6b1b43e3b80b",
@@ -72,6 +90,26 @@
       "timestamp": "2025-02-22T05:01:45.047Z",
       "prompt": "",
       "parent_inline_chat_id": null
+    },
+    {
+      "inline_chat_id": "35af613e-8872-4213-a5f1-f1d6c52020ff",
+      "file_diff": [
+        {
+          "file_path": "test1.py",
+          "diffs": [
+            {
+              "count": 8,
+              "added": true,
+              "removed": false,
+              "value": "def code_sync_demo():\n    print(\"This is a demo of code synchronization.\")\n    print(\"Code synchronization ensures that changes in one place are reflected in another.\")\n    print(\"This is useful for maintaining consistency across different parts of a project.\")\n    print(\"End of demo.\")\n\nif __name__ == \"__main__\":\n    code_sync_demo()"
+            }
+          ]
+        }
+      ],
+      "selection": null,
+      "timestamp": "2025-03-02T01:43:52.594Z",
+      "prompt": "write a function that will show the the demo of codesync.",
+      "parent_inline_chat_id": null
     }
   ],
   "schemaVersion": "1.0",
@@ -80,9 +118,22 @@
     "deletedPanelChatIDs": []
   },
   "kv_store": {
-    "unique_matched_lines_count": 0,
-    "total_repo_line_count": 0,
+    "unique_matched_lines_count": 10,
+    "total_repo_line_count": 26,
     "best_prompt_response": null,
-    "file_statistics": []
+    "file_statistics": [
+      {
+        "file": "pt.py",
+        "total_lines": 9,
+        "ai_generated_lines": 3,
+        "ai_generated_percentage": 33.33333333333333
+      },
+      {
+        "file": "test1.py",
+        "total_lines": 17,
+        "ai_generated_lines": 7,
+        "ai_generated_percentage": 41.17647058823529
+      }
+    ]
   }
 }
