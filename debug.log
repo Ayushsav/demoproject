@@ -1,332 +1,439 @@
-2025-03-02T01:38:20.580Z - Activating extension
-2025-03-02T01:38:20.584Z - Codesync folder found
-2025-03-02T01:38:20.846Z - Tool found: VSCode
-2025-03-02T01:38:25.051Z - Git history + file state loaded
-2025-03-02T01:38:25.154Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:30.922Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:38:31.261Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:31.403Z - State updated
-2025-03-02T01:38:33.132Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:34.951Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:38:35.052Z - State updated
-2025-03-02T01:38:36.223Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:38.951Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:38:39.073Z - State updated
-2025-03-02T01:38:39.238Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:42.199Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:42.952Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:38:43.019Z - State updated
-2025-03-02T01:38:45.355Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:46.961Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:38:47.090Z - State updated
-2025-03-02T01:38:48.291Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:50.962Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:38:51.013Z - State updated
-2025-03-02T01:38:51.288Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:54.309Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:54.964Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:38:55.021Z - State updated
-2025-03-02T01:38:57.309Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:38:59.004Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:38:59.078Z - State updated
-2025-03-02T01:39:00.301Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:03.005Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:03.076Z - State updated
-2025-03-02T01:39:03.322Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:06.355Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:07.006Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:07.062Z - State updated
-2025-03-02T01:39:09.408Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:11.006Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:11.070Z - State updated
-2025-03-02T01:39:12.432Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:15.234Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:15.607Z - State updated
-2025-03-02T01:39:16.624Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:19.241Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:19.292Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:19.351Z - State updated
-2025-03-02T01:39:22.188Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:23.242Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:23.302Z - State updated
-2025-03-02T01:39:25.215Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:27.243Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:27.299Z - State updated
-2025-03-02T01:39:28.219Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:31.216Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:31.264Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:31.330Z - State updated
-2025-03-02T01:39:34.218Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:35.264Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:35.319Z - State updated
-2025-03-02T01:39:37.212Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:39.264Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:39.327Z - State updated
-2025-03-02T01:39:40.319Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:43.267Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:43.319Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:43.369Z - State updated
-2025-03-02T01:39:46.263Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:47.267Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:47.324Z - State updated
-2025-03-02T01:39:49.292Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:51.267Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:51.326Z - State updated
-2025-03-02T01:39:52.271Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:55.270Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:55.320Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:55.373Z - State updated
-2025-03-02T01:39:58.296Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:39:59.271Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:39:59.334Z - State updated
-2025-03-02T01:40:01.290Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:03.272Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:03.361Z - State updated
-2025-03-02T01:40:04.279Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:07.272Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:07.316Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:07.369Z - State updated
-2025-03-02T01:40:10.283Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:11.317Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:11.373Z - State updated
-2025-03-02T01:40:13.288Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:15.317Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:15.373Z - State updated
-2025-03-02T01:40:16.310Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:19.314Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:19.365Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:19.422Z - State updated
-2025-03-02T01:40:22.290Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:23.366Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:23.433Z - State updated
-2025-03-02T01:40:25.293Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:27.367Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:27.426Z - State updated
-2025-03-02T01:40:28.294Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:31.281Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:31.367Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:31.421Z - State updated
-2025-03-02T01:40:34.311Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:35.367Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:35.428Z - State updated
-2025-03-02T01:40:37.285Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:39.368Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:39.430Z - State updated
-2025-03-02T01:40:40.297Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:43.298Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:43.369Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:43.430Z - State updated
-2025-03-02T01:40:46.402Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:47.372Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:47.474Z - State updated
-2025-03-02T01:40:49.371Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:51.372Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:51.426Z - State updated
-2025-03-02T01:40:52.330Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:55.317Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:55.376Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:55.438Z - State updated
-2025-03-02T01:40:58.322Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:40:59.377Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:40:59.435Z - State updated
-2025-03-02T01:41:01.361Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:03.378Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:03.453Z - State updated
-2025-03-02T01:41:04.352Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:07.377Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:07.430Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:07.503Z - State updated
-2025-03-02T01:41:10.340Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:11.431Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:11.499Z - State updated
-2025-03-02T01:41:13.458Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:15.431Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:15.485Z - State updated
-2025-03-02T01:41:16.327Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:19.330Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:19.432Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:19.493Z - State updated
-2025-03-02T01:41:22.340Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:23.432Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:23.502Z - State updated
-2025-03-02T01:41:25.560Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:28.258Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:29.273Z - State updated
-2025-03-02T01:41:32.279Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:32.354Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:32.643Z - State updated
-2025-03-02T01:41:34.145Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:36.279Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:36.474Z - State updated
-2025-03-02T01:41:37.521Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:40.137Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:40.280Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:40.344Z - State updated
-2025-03-02T01:41:43.140Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:44.280Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:44.336Z - State updated
-2025-03-02T01:41:46.186Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:48.281Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:48.341Z - State updated
-2025-03-02T01:41:49.180Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:52.167Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:52.281Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:52.337Z - State updated
-2025-03-02T01:41:55.156Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:41:56.281Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:41:56.424Z - State updated
-2025-03-02T01:41:58.149Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:00.281Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:00.338Z - State updated
-2025-03-02T01:42:01.138Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:04.170Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:04.282Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:04.350Z - State updated
-2025-03-02T01:42:07.175Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:08.282Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:08.351Z - State updated
-2025-03-02T01:42:10.171Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:12.282Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:12.341Z - State updated
-2025-03-02T01:42:13.202Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:16.181Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:16.282Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:16.341Z - State updated
-2025-03-02T01:42:19.203Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:20.283Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:20.342Z - State updated
-2025-03-02T01:42:22.213Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:24.283Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:24.341Z - State updated
-2025-03-02T01:42:25.182Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:28.223Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:28.295Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:28.364Z - State updated
-2025-03-02T01:42:31.216Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:32.296Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:32.356Z - State updated
-2025-03-02T01:42:34.188Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:36.296Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:36.354Z - State updated
-2025-03-02T01:42:37.185Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:40.215Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:40.296Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:40.356Z - State updated
-2025-03-02T01:42:43.196Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:44.296Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:44.353Z - State updated
-2025-03-02T01:42:46.231Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:48.312Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:48.368Z - State updated
-2025-03-02T01:42:49.180Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:52.280Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:52.365Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:52.429Z - State updated
-2025-03-02T01:42:54.895Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:55.232Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:42:56.366Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:42:56.435Z - State updated
-2025-03-02T01:42:58.209Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:00.367Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:00.425Z - State updated
-2025-03-02T01:43:01.231Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:04.210Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:04.366Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:04.421Z - State updated
-2025-03-02T01:43:07.214Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:08.366Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:08.422Z - State updated
-2025-03-02T01:43:10.212Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:12.366Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:12.440Z - State updated
-2025-03-02T01:43:13.215Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:16.239Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:16.366Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:16.419Z - State updated
-2025-03-02T01:43:19.232Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:20.367Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:20.445Z - State updated
-2025-03-02T01:43:22.222Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:24.368Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:24.429Z - State updated
-2025-03-02T01:43:25.257Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:28.224Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:28.369Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:28.440Z - State updated
-2025-03-02T01:43:31.240Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:32.369Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:32.429Z - State updated
-2025-03-02T01:43:34.240Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:36.370Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:36.427Z - State updated
-2025-03-02T01:43:37.248Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:40.239Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:40.370Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:40.428Z - State updated
-2025-03-02T01:43:43.236Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:44.371Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:44.435Z - State updated
-2025-03-02T01:43:46.439Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:48.372Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:48.429Z - State updated
-2025-03-02T01:43:49.321Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:52.390Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:52.524Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:52.580Z - State updated
-2025-03-02T01:43:55.334Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:43:56.390Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:43:56.448Z - State updated
-2025-03-02T01:43:58.339Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:00.391Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:00.470Z - State updated
-2025-03-02T01:44:01.340Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:04.330Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:04.391Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:04.447Z - State updated
-2025-03-02T01:44:07.337Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:08.392Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:08.458Z - State updated
-2025-03-02T01:44:10.329Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:12.391Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:12.456Z - State updated
-2025-03-02T01:44:13.342Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:16.335Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:16.392Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:16.451Z - State updated
-2025-03-02T01:44:19.345Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:20.394Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:20.451Z - State updated
-2025-03-02T01:44:22.336Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:24.394Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:24.455Z - State updated
-2025-03-02T01:44:25.329Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:28.364Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:28.406Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:28.469Z - State updated
-2025-03-02T01:44:31.457Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:32.406Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:32.465Z - State updated
-2025-03-02T01:44:34.413Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:36.407Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:36.464Z - State updated
-2025-03-02T01:44:37.427Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:40.532Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:40.603Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:40.678Z - State updated
-2025-03-02T01:44:44.077Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:44.532Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:44.589Z - State updated
-2025-03-02T01:44:47.074Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:48.532Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:48.608Z - State updated
-2025-03-02T01:44:50.087Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:52.533Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:52.589Z - State updated
-2025-03-02T01:44:53.171Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:56.136Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:44:56.533Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:44:56.592Z - State updated
-2025-03-02T01:44:59.173Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
-2025-03-02T01:45:00.533Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
-2025-03-02T01:45:00.595Z - State updated
-2025-03-02T01:45:02.195Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:35:59.604Z - Activating extension
+2025-03-05T21:35:59.609Z - Codesync folder found
+2025-03-05T21:35:59.683Z - Tool found: VSCode
+2025-03-05T21:36:03.991Z - Git history + file state loaded
+2025-03-05T21:36:04.178Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:10.677Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:12.399Z - State updated
+2025-03-05T21:36:12.561Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:14.111Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:14.677Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:14.728Z - State updated
+2025-03-05T21:36:17.067Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:18.677Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:18.722Z - State updated
+2025-03-05T21:36:20.057Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:22.677Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:22.726Z - State updated
+2025-03-05T21:36:23.066Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:26.060Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:26.678Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:26.724Z - State updated
+2025-03-05T21:36:29.058Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:30.677Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:30.720Z - State updated
+2025-03-05T21:36:32.066Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:34.678Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:34.723Z - State updated
+2025-03-05T21:36:35.061Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:38.075Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:38.678Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:38.734Z - State updated
+2025-03-05T21:36:41.162Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:42.679Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:42.719Z - State updated
+2025-03-05T21:36:44.066Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:46.679Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:46.729Z - State updated
+2025-03-05T21:36:47.061Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:50.069Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:50.680Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:50.724Z - State updated
+2025-03-05T21:36:53.065Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:54.680Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:54.722Z - State updated
+2025-03-05T21:36:56.080Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:36:58.681Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:36:58.727Z - State updated
+2025-03-05T21:36:59.091Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:02.079Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:02.682Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:02.737Z - State updated
+2025-03-05T21:37:05.086Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:06.682Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:06.726Z - State updated
+2025-03-05T21:37:08.074Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:10.683Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:10.718Z - State updated
+2025-03-05T21:37:11.085Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:14.085Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:14.684Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:14.727Z - State updated
+2025-03-05T21:37:17.171Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:18.702Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:18.786Z - State updated
+2025-03-05T21:37:20.100Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:22.703Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:22.770Z - State updated
+2025-03-05T21:37:23.088Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:26.096Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:26.704Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:26.743Z - State updated
+2025-03-05T21:37:29.092Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:30.705Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:30.749Z - State updated
+2025-03-05T21:37:32.088Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:34.706Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:34.788Z - State updated
+2025-03-05T21:37:35.090Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:38.103Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:38.707Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:38.759Z - State updated
+2025-03-05T21:37:41.110Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:42.707Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:42.746Z - State updated
+2025-03-05T21:37:44.100Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:46.708Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:46.768Z - State updated
+2025-03-05T21:37:47.124Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:50.412Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:50.709Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:50.751Z - State updated
+2025-03-05T21:37:53.105Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:54.709Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:54.750Z - State updated
+2025-03-05T21:37:56.103Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:37:58.710Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:37:58.773Z - State updated
+2025-03-05T21:37:59.113Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:02.114Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:02.711Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:02.751Z - State updated
+2025-03-05T21:38:05.116Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:06.711Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:06.753Z - State updated
+2025-03-05T21:38:08.121Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:10.712Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:10.751Z - State updated
+2025-03-05T21:38:11.122Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:14.198Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:14.713Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:14.756Z - State updated
+2025-03-05T21:38:17.127Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:18.713Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:18.753Z - State updated
+2025-03-05T21:38:20.201Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:22.714Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:22.755Z - State updated
+2025-03-05T21:38:23.128Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:26.165Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:26.715Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:26.804Z - State updated
+2025-03-05T21:38:29.135Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:30.716Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:30.759Z - State updated
+2025-03-05T21:38:32.135Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:34.717Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:34.755Z - State updated
+2025-03-05T21:38:35.135Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:38.152Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:38.718Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:38.757Z - State updated
+2025-03-05T21:38:41.144Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:42.719Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:42.764Z - State updated
+2025-03-05T21:38:44.164Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:46.720Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:46.765Z - State updated
+2025-03-05T21:38:47.152Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:50.306Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:50.721Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:50.763Z - State updated
+2025-03-05T21:38:53.153Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:54.721Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:54.781Z - State updated
+2025-03-05T21:38:56.162Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:38:58.722Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:38:58.802Z - State updated
+2025-03-05T21:38:59.162Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:02.174Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:02.723Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:02.763Z - State updated
+2025-03-05T21:39:05.245Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:06.724Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:06.763Z - State updated
+2025-03-05T21:39:08.183Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:10.725Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:10.763Z - State updated
+2025-03-05T21:39:11.194Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:14.326Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:14.725Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:14.766Z - State updated
+2025-03-05T21:39:17.199Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:18.726Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:18.776Z - State updated
+2025-03-05T21:39:20.196Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:22.727Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:22.779Z - State updated
+2025-03-05T21:39:23.192Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:26.562Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:26.729Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:26.789Z - State updated
+2025-03-05T21:39:29.216Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:30.729Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:30.769Z - State updated
+2025-03-05T21:39:31.181Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:32.268Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:34.730Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:34.784Z - State updated
+2025-03-05T21:39:35.210Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:38.206Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:38.731Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:38.772Z - State updated
+2025-03-05T21:39:41.249Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:42.731Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:42.776Z - State updated
+2025-03-05T21:39:44.214Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:46.732Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:46.793Z - State updated
+2025-03-05T21:39:47.218Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:50.228Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:50.733Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:50.795Z - State updated
+2025-03-05T21:39:53.222Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:54.734Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:54.774Z - State updated
+2025-03-05T21:39:56.224Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:39:58.735Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:39:58.776Z - State updated
+2025-03-05T21:39:59.231Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:02.520Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:02.800Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:02.866Z - State updated
+2025-03-05T21:40:06.234Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:06.801Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:06.843Z - State updated
+2025-03-05T21:40:08.311Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:10.800Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:10.837Z - State updated
+2025-03-05T21:40:11.263Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:14.277Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:14.800Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:14.840Z - State updated
+2025-03-05T21:40:17.289Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:18.801Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:18.855Z - State updated
+2025-03-05T21:40:20.265Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:22.801Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:22.848Z - State updated
+2025-03-05T21:40:23.271Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:26.276Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:26.801Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:26.846Z - State updated
+2025-03-05T21:40:29.267Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:30.802Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:30.880Z - State updated
+2025-03-05T21:40:32.277Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:34.803Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:34.871Z - State updated
+2025-03-05T21:40:35.273Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:38.282Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:38.804Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:38.843Z - State updated
+2025-03-05T21:40:41.277Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:42.803Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:42.843Z - State updated
+2025-03-05T21:40:44.287Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:46.805Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:46.847Z - State updated
+2025-03-05T21:40:47.290Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:50.383Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:50.805Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:50.872Z - State updated
+2025-03-05T21:40:53.319Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:54.806Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:54.851Z - State updated
+2025-03-05T21:40:56.320Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:40:58.807Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:40:58.850Z - State updated
+2025-03-05T21:40:59.298Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:02.339Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:02.808Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:02.878Z - State updated
+2025-03-05T21:41:05.296Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:06.809Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:06.851Z - State updated
+2025-03-05T21:41:08.312Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:10.809Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:10.848Z - State updated
+2025-03-05T21:41:11.314Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:14.303Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:14.809Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:14.849Z - State updated
+2025-03-05T21:41:17.325Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:18.830Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:18.967Z - State updated
+2025-03-05T21:41:20.308Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:22.830Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:22.874Z - State updated
+2025-03-05T21:41:23.527Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:26.353Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:26.831Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:26.882Z - State updated
+2025-03-05T21:41:29.412Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:30.831Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:30.880Z - State updated
+2025-03-05T21:41:32.332Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:34.832Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:34.873Z - State updated
+2025-03-05T21:41:35.329Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:38.327Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:38.832Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:38.877Z - State updated
+2025-03-05T21:41:41.351Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:42.833Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:42.881Z - State updated
+2025-03-05T21:41:45.051Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:46.833Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:46.883Z - State updated
+2025-03-05T21:41:47.355Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:50.359Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:50.833Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:50.887Z - State updated
+2025-03-05T21:41:53.622Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:54.834Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:54.896Z - State updated
+2025-03-05T21:41:57.489Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:41:58.834Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:41:58.895Z - State updated
+2025-03-05T21:41:59.489Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:02.439Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:02.834Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:02.884Z - State updated
+2025-03-05T21:42:05.426Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:06.834Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:06.878Z - State updated
+2025-03-05T21:42:08.443Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:10.834Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:10.878Z - State updated
+2025-03-05T21:42:11.449Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:14.438Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:14.835Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:14.895Z - State updated
+2025-03-05T21:42:17.438Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:18.835Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:18.890Z - State updated
+2025-03-05T21:42:20.444Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:22.836Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:22.882Z - State updated
+2025-03-05T21:42:23.456Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:26.483Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:26.837Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:26.903Z - State updated
+2025-03-05T21:42:29.453Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:30.837Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:30.885Z - State updated
+2025-03-05T21:42:32.448Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:34.838Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:34.882Z - State updated
+2025-03-05T21:42:35.511Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:38.452Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:38.838Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:38.881Z - State updated
+2025-03-05T21:42:41.460Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:42.838Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:42.918Z - State updated
+2025-03-05T21:42:44.458Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:46.845Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:46.925Z - State updated
+2025-03-05T21:42:47.953Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:50.672Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:50.846Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:50.931Z - State updated
+2025-03-05T21:42:53.573Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:54.846Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:54.920Z - State updated
+2025-03-05T21:42:56.548Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:42:58.845Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:42:58.900Z - State updated
+2025-03-05T21:42:59.548Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:02.537Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:02.845Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:02.917Z - State updated
+2025-03-05T21:43:05.549Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:06.846Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:06.892Z - State updated
+2025-03-05T21:43:08.530Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:10.846Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:10.891Z - State updated
+2025-03-05T21:43:11.563Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:14.553Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:14.847Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:14.899Z - State updated
+2025-03-05T21:43:17.627Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:18.847Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:18.896Z - State updated
+2025-03-05T21:43:20.559Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:22.848Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:22.892Z - State updated
+2025-03-05T21:43:23.590Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:26.613Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:26.849Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:26.908Z - State updated
+2025-03-05T21:43:29.657Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:30.850Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:30.896Z - State updated
+2025-03-05T21:43:32.687Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:34.850Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:34.932Z - State updated
+2025-03-05T21:43:35.695Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:38.733Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:38.849Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:38.895Z - State updated
+2025-03-05T21:43:41.725Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:42.850Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:42.896Z - State updated
+2025-03-05T21:43:44.728Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:46.850Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:46.913Z - Error querying SQLite DB: Error: Command failed: "sqlite3" "/home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb" -readonly -csv "SELECT key, value FROM ItemTable WHERE key = 'interactive.sessions';" > /tmp/vscode_state_1741211026850.csv
+Error: in prepare, database is locked (5)
+
+2025-03-05T21:43:46.914Z - State updated
+2025-03-05T21:43:47.732Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:50.791Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:50.851Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:50.898Z - State updated
+2025-03-05T21:43:53.739Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:54.851Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:54.896Z - State updated
+2025-03-05T21:43:56.742Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:43:58.850Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:43:58.911Z - State updated
+2025-03-05T21:43:59.738Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:02.747Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:02.851Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:02.897Z - State updated
+2025-03-05T21:44:05.868Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:06.851Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:06.900Z - State updated
+2025-03-05T21:44:08.750Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:10.850Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:10.896Z - State updated
+2025-03-05T21:44:11.754Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:14.755Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:14.850Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:14.893Z - State updated
+2025-03-05T21:44:17.822Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:18.851Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:18.895Z - State updated
+2025-03-05T21:44:20.840Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:22.851Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:22.899Z - State updated
+2025-03-05T21:44:23.799Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:26.803Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:26.851Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:26.894Z - State updated
+2025-03-05T21:44:29.864Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:30.852Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:30.925Z - State updated
+2025-03-05T21:44:32.806Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:34.851Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:34.897Z - State updated
+2025-03-05T21:44:35.830Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:38.826Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:38.855Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:38.899Z - State updated
+2025-03-05T21:44:41.813Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session
+2025-03-05T21:44:42.856Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: interactive.sessions
+2025-03-05T21:44:42.909Z - State updated
+2025-03-05T21:44:44.843Z - Reading VSCode state from /home/ayush/.config/Code/User/workspaceStorage/3b152c0d69d331778560a3353fe11a34/state.vscdb for key: memento/interactive-session

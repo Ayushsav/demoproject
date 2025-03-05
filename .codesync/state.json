@@ -14,6 +14,14 @@
           "model": "Unknown",
           "timestamp": "2025-03-02T01:53:34.722Z",
           "context": []
+        },
+        {
+          "id": "7384cb61-c156-46c7-8806-eaf8e194de82",
+          "messageText": "add for a client.",
+          "responseText": "Sure, I'll add a client function to connect to the server in \n.\n\n```python\n\nimport socket\n\ndef code_sync_demo():\n    print(\"This is a demo of code synchronization.\")\n    print(\"Code synchronization ensures that changes in one place are reflected in another.\")\n    print(\"This is useful for maintaining consistency across different parts of a project.\")\n    print(\"End of demo.\")\n    def get_name():\n        return \"GitHub Copilot\"\n    print(f\"Hello, {get_name()}!\")\n    print(\"This is a test.\")\n    print(\"This is a test.\")\n    for i in range(5):\n        print(f\"Loop iteration {i+1}\")\n    \n    def calculate_sum(a, b):\n        return a + b\n    \n    num1 = 10\n    num2 = 20\n    result = calculate_sum(num1, num2)\n    print(f\"The sum of {num1} and {num2} is {result}\")\n    \n    try:\n        with open(\"/home/ayush/Videos/errorbynight/demoproject/sample.txt\", \"r\") as file:\n            content = file.read()\n            print(\"File content:\")\n            print(content)\n    except FileNotFoundError:\n        print(\"The file was not found.\")\n\ndef create_client_socket(host, port):\n    client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    client_socket.connect((host, port))\n    print(f\"Connected to server at {host}:{port}\")\n    return client_socket\n\ndef communicate_with_server(host, port):\n    client_socket = create_client_socket(host, port)\n    message = client_socket.recv(1024)\n    print(f\"Received message from server: {message.decode()}\")\n    client_socket.close()\n\nif __name__ == \"__main__\":\n    code_sync_demo()\n    communicate_with_server('127.0.0.1', 65432)\n```",
+          "model": "Unknown",
+          "timestamp": "2025-03-05T21:43:18.896Z",
+          "context": []
         }
       ]
     }
@@ -110,6 +118,152 @@
       "timestamp": "2025-03-02T01:43:52.594Z",
       "prompt": "write a function that will show the the demo of codesync.",
       "parent_inline_chat_id": null
+    },
+    {
+      "inline_chat_id": "4bbb700c-c1d6-402c-8d7d-e8a543955e2f",
+      "file_diff": [
+        {
+          "file_path": "test1.py",
+          "diffs": [
+            {
+              "count": 5,
+              "added": false,
+              "removed": false,
+              "value": "def code_sync_demo():\n    print(\"This is a demo of code synchronization.\")\n    print(\"Code synchronization ensures that changes in one place are reflected in another.\")\n    print(\"This is useful for maintaining consistency across different parts of a project.\")\n    print(\"End of demo.\")\n"
+            },
+            {
+              "count": 2,
+              "added": true,
+              "removed": false,
+              "value": "    def get_name():\n        return \"GitHub Copilot\"\n"
+            },
+            {
+              "count": 1,
+              "added": false,
+              "removed": false,
+              "value": "\n"
+            },
+            {
+              "count": 1,
+              "added": false,
+              "removed": true,
+              "value": "\n"
+            },
+            {
+              "count": 2,
+              "added": false,
+              "removed": false,
+              "value": "if __name__ == \"__main__\":\n    code_sync_demo()"
+            }
+          ]
+        }
+      ],
+      "selection": null,
+      "timestamp": "2025-03-04T07:57:28.943Z",
+      "prompt": "write one function which return name",
+      "parent_inline_chat_id": null
+    },
+    {
+      "inline_chat_id": "7f2a584d-2d80-4457-95cb-56602809cd63",
+      "file_diff": [
+        {
+          "file_path": "test1.py",
+          "diffs": [
+            {
+              "count": 10,
+              "added": false,
+              "removed": false,
+              "value": "def code_sync_demo():\n    print(\"This is a demo of code synchronization.\")\n    print(\"Code synchronization ensures that changes in one place are reflected in another.\")\n    print(\"This is useful for maintaining consistency across different parts of a project.\")\n    print(\"End of demo.\")\n    def get_name():\n        return \"GitHub Copilot\"\n    print(f\"Hello, {get_name()}!\")\n    print(\"This is a test.\")\n    print(\"This is a test.\")\n"
+            },
+            {
+              "count": 2,
+              "added": true,
+              "removed": false,
+              "value": "    for i in range(5):\n        print(f\"Loop iteration {i+1}\")\n"
+            },
+            {
+              "count": 1,
+              "added": false,
+              "removed": false,
+              "value": "    \n"
+            },
+            {
+              "count": 1,
+              "added": false,
+              "removed": true,
+              "value": "\n"
+            },
+            {
+              "count": 5,
+              "added": true,
+              "removed": false,
+              "value": "    def calculate_sum(a, b):\n        return a + b\n    \n    num1 = 10\n    num2 =\n"
+            },
+            {
+              "count": 2,
+              "added": false,
+              "removed": false,
+              "value": "if __name__ == \"__main__\":\n    code_sync_demo()"
+            }
+          ]
+        }
+      ],
+      "selection": null,
+      "timestamp": "2025-03-04T08:02:26.571Z",
+      "prompt": "write 15 line code",
+      "parent_inline_chat_id": null
+    },
+    {
+      "inline_chat_id": "76b51242-6930-4a57-b308-b038b3fbb455",
+      "file_diff": [
+        {
+          "file_path": "tyt.py",
+          "diffs": [
+            {
+              "count": 8,
+              "added": false,
+              "removed": false,
+              "value": "def sum_of_two_numbers(a, b):\n    return a + b\n\n# Example usage\nif __name__ == \"__main__\":\n    num1 = 5\n    num2 = 3\n    result = sum_of_two_numbers(num1, num2)\n"
+            },
+            {
+              "count": 1,
+              "added": false,
+              "removed": true,
+              "value": "    print(f\"The sum of {num1} and {num2} is {result}\")"
+            },
+            {
+              "count": 10,
+              "added": true,
+              "removed": false,
+              "value": "    print(f\"The sum of {num1} and {num2} is {result}\")\n    \n    # Additional enhancement: handling user input\n    try:\n        num1 = float(input(\"Enter the first number: \"))\n        num2 = float(input(\"Enter the second number: \"))\n        result = sum_of_two_numbers(num1, num2)\n        print(f\"The sum of {num1} and {num2} is {result}\")\n    except ValueError:\n        print(\"Invalid input. Please enter numeric values.\")"
+            }
+          ]
+        }
+      ],
+      "selection": null,
+      "timestamp": "2025-03-04T08:13:18.080Z",
+      "prompt": "enhance this code",
+      "parent_inline_chat_id": null
+    },
+    {
+      "inline_chat_id": "e33ac125-f4ce-466e-a22b-32a1a2ffd87e",
+      "file_diff": [
+        {
+          "file_path": "tod.py",
+          "diffs": [
+            {
+              "count": 25,
+              "added": true,
+              "removed": false,
+              "value": "importdef create_server_socket(host, port):\n    server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    server_socket.bind((host, port))\n    server_socket.listen(5)\n    print(f\"Server listening on {host}:{port}\")\n    return server_socket\n\ndef accept_client_connection(server_socket):\n    client_socket, client_address = server_socket.accept()\n    print(f\"Connection from {client_address}\")\n    return client_socket, client_address\n\ndef main():\n    host = '127.0.0.1'\n    port = 65432\n\n    server_socket = create_server_socket(host, port)\n    \n    while True:\n        client_socket, client_address = accept_client_connection(server_socket)\n        client_socket.sendall(b'Hello, client!')\n        client_socket.close()\n\nif __name__ == \"__main__\":\n    main()"
+            }
+          ]
+        }
+      ],
+      "selection": null,
+      "timestamp": "2025-03-05T21:40:08.399Z",
+      "prompt": "write a python code to perform connecting sockets.",
+      "parent_inline_chat_id": null
     }
   ],
   "schemaVersion": "1.0",
@@ -118,10 +272,21 @@
     "deletedPanelChatIDs": []
   },
   "kv_store": {
-    "unique_matched_lines_count": 10,
-    "total_repo_line_count": 26,
-    "best_prompt_response": null,
+    "unique_matched_lines_count": 41,
+    "total_repo_line_count": 494,
+    "best_prompt_response": {
+      "prompt": "add for a client.",
+      "response": "Sure, I'll add a client function to connect to the server in \n.\n\n```python\n\nimport socket\n\ndef code_sync_demo():\n    print(\"This is a demo of code synchronization.\")\n    print(\"Code synchronization ensures that changes in one place are reflected in another.\")\n    print(\"This is useful for maintaining consistency across different parts of a project.\")\n    print(\"End of demo.\")\n    def get_name():\n        return \"GitHub Copilot\"\n    print(f\"Hello, {get_name()}!\")\n    print(\"This is a test.\")\n    print(\"This is a test.\")\n    for i in range(5):\n        print(f\"Loop iteration {i+1}\")\n    \n    def calculate_sum(a, b):\n        return a + b\n    \n    num1 = 10\n    num2 = 20\n    result = calculate_sum(num1, num2)\n    print(f\"The sum of {num1} and {num2} is {result}\")\n    \n    try:\n        with open(\"/home/ayush/Videos/errorbynight/demoproject/sample.txt\", \"r\") as file:\n            content = file.read()\n            print(\"File content:\")\n            print(content)\n    except FileNotFoundError:\n        print(\"The file was not found.\")\n\ndef create_client_socket(host, port):\n    client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    client_socket.connect((host, port))\n    print(f\"Connected to server at {host}:{port}\")\n    return client_socket\n\ndef communicate_with_server(host, port):\n    client_socket = create_client_socket(host, port)\n    message = client_socket.recv(1024)\n    print(f\"Received message from server: {message.decode()}\")\n    client_socket.close()\n\nif __name__ == \"__main__\":\n    code_sync_demo()\n    communicate_with_server('127.0.0.1', 65432)\n```",
+      "match_count": 38,
+      "file": "test1.py"
+    },
     "file_statistics": [
+      {
+        "file": "debug.log",
+        "total_lines": 439,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
       {
         "file": "pt.py",
         "total_lines": 9,
@@ -130,9 +295,9 @@
       },
       {
         "file": "test1.py",
-        "total_lines": 17,
-        "ai_generated_lines": 7,
-        "ai_generated_percentage": 41.17647058823529
+        "total_lines": 46,
+        "ai_generated_lines": 38,
+        "ai_generated_percentage": 82.6086956521739
       }
     ]
   }
